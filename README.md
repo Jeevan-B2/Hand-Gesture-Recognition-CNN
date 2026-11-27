@@ -1,6 +1,4 @@
-# Prodigy InfoTech - Machine Learning Internship
-
-## Task 04: Hand Gesture Recognition using CNN
+### Hand Gesture Recognition using CNN
 
 ### 📌 Objective
 Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image data to enable intuitive human-computer interaction.
